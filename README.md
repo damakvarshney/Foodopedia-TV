@@ -1,4 +1,4 @@
-# renative-template-hello-world
+# FoodoPedia TV
 
 Hello World Template for <a href="https://www.npmjs.com/package/renative">ReNative</a>
 
@@ -18,20 +18,10 @@ This provides the example multi platform app with following functionality demons
 ## Run On Simulator
 `rnv run -p androidtv`
 
-## 🚀 Quick Start
+## Yelp Fusion
+The Yelp Fusion API provides access to the industry leading Yelp content and data. The [Yelp Fusion Developer Portal](https://www.yelp.com/fusion) includes tools & documentation for building with the Yelp Fusion API, and cool partner integration examples to inspire developers.
 
-```bash
-rnv new
-
-...
-
-? What template to use? => 'renative-template-hello-world'
-
-```
-
-## Supported Platforms
-
-`iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `KaiOS`, `FirefoxOS`, `Firefox TV`
+Our [getting started tutorial](https://www.yelp.com/developers/documentation/v3/get_started) provides step-by-step instructions to get up and running with the Yelp Fusion API.
 
 ## Screenshots
 
