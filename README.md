@@ -15,6 +15,8 @@ This provides the example multi platform app with following functionality demons
 - Buttons with interactions
 - State changes
 
+## Run On Simulator
+`rnv run -p androidtv`
 
 ## 🚀 Quick Start
 
